@@ -1,0 +1,46 @@
+
+---
+title: "Contact"
+date: 2026-01-01T13:00:00+09:00
+---
+
+<div style="max-width: 600px; margin: 0 auto; font-family: sans-serif;">
+  <p style="margin-bottom: 30px; font-size: 16px;">ご意見・ご依頼は以下のフォームよりお送りください。</p>
+
+  <form name="contact" method="POST" data-netlify="true">
+    <!-- スパム対策 -->
+    <div netlify-honeypot="bot-field" style="display:none">
+      <input name="bot-field">
+    </div>
+
+    <!-- お名前 -->
+    <div style="margin-bottom: 25px;">
+      <label style="display: block; font-weight: bold; margin-bottom: 8px; color: #000; font-size: 18px;">
+        お名前 <span style="background: #000; color: #fff; font-size: 12px; padding: 2px 6px; margin-left: 5px; vertical-align: middle;">必須</span>
+      </label>
+      <input type="text" name="name" required placeholder="山田 太郎" style="width: 100%; padding: 12px; border: 2px solid #000; border-radius: 0; font-size: 16px; box-sizing: border-box;">
+    </div>
+
+    <!-- メールアドレス -->
+    <div style="margin-bottom: 25px;">
+      <label style="display: block; font-weight: bold; margin-bottom: 8px; color: #000; font-size: 18px;">
+        メールアドレス <span style="background: #000; color: #fff; font-size: 12px; padding: 2px 6px; margin-left: 5px; vertical-align: middle;">必須</span>
+      </label>
+      <input type="email" name="email" required placeholder="example@une-une.net" style="width: 100%; padding: 12px; border: 2px solid #000; border-radius: 0; font-size: 16px; box-sizing: border-box;">
+    </div>
+
+    <!-- メッセージ -->
+    <div style="margin-bottom: 30px;">
+      <label style="display: block; font-weight: bold; margin-bottom: 8px; color: #000; font-size: 18px;">
+        メッセージ <span style="background: #000; color: #fff; font-size: 12px; padding: 2px 6px; margin-left: 5px; vertical-align: middle;">必須</span>
+      </label>
+      <textarea name="message" rows="8" required placeholder="お問い合わせ内容をご記入ください" style="width: 100%; padding: 12px; border: 2px solid #000; border-radius: 0; font-size: 16px; box-sizing: border-box; line-height: 1.6;"></textarea>
+    </div>
+
+    <!-- 送信ボタン（白黒・高コントラスト） -->
+    <button type="submit" style="width: 100%; background-color: #000; color: #fff; padding: 20px; border: 2px solid #000; font-size: 20px; font-weight: bold; cursor: pointer; border-radius: 0; transition: 0.3s; text-transform: uppercase;">
+      Send Message / 送信する
+    </button>
+  </form>
+</div>
+

@@ -1,0 +1,42 @@
+baseURL = 'une-une.net'
+languageCode = 'ja-jp'
+title = 'uneune.'
+theme = 'beautifulhugo'
+
+[params]
+  subtitle = ""
+  author.name = "uneune. " 
+  custom_css = ["css/custom.css"]
+  # SNS連携
+  twitter = "@uneune_uneko"
+  instagram = "uneune_uneko"
+
+# --- メニュー設定 ---
+[[menu.main]]
+    name = "about"
+    url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "gallery"
+    url = "/gallery/"
+    weight = 2
+
+[[menu.main]]
+    name = "contact"
+    url = "/contact/"
+    weight = 3
+
+# --- 著者情報 ---
+[Params.author]
+  name = "uneune. " 
+  website = "une-une.net"
+  email = "uneune.create@gmail.com"
+  twitter = "@uneune_uneko"
+  instagram = "uneune_uneko"
+
+# --- ここが最重要：HTMLを有効にする設定 ---
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

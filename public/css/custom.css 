@@ -1,0 +1,62 @@
+
+/* サイト全体のフォントとサイズ */
+body {
+    font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif;
+    font-size: 11px; /* 基本の文字サイズ */
+    line-height: 1.8; /* 行間を少し広げると読みやすくなります */
+    color: #333333; /* 文字の色 */
+}
+
+/* 見出し（H3など）のサイズを変える場合 */
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-top: 30px;
+}
+
+/* 自己紹介文などの特定の場所だけ大きくしたい場合 */
+.about-text {
+    font-size: 13px;
+}
+
+
+/* ギャラリー全体のレイアウト */
+.gallery-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3列に並べる */
+    gap: 15px; /* 画像同士の隙間 */
+    margin-top: 30px;
+}
+
+/* 画像のスタイル */
+.gallery-item img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover; /* 比率を保ったまま枠を埋める */
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.gallery-item img:hover {
+    transform: scale(1.05); /* マウスを載せると少し大きく */
+}
+
+/* スマホでは1列にする */
+@media (max-width: 768px) {
+    .gallery-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+
+
+
+input, textarea, input:focus, textarea:focus {
+    color: #000000 !important;
+    -webkit-text-fill-color: #000000 !important;
+    background-color: #ffffff !important;
+    opacity: 1 !important;
+}

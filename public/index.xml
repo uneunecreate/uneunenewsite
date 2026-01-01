@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uneune.</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on uneune.</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <managingEditor>uneune.create@gmail.com (uneune. )</managingEditor>
+    <webMaster>uneune.create@gmail.com (uneune. )</webMaster>
+    <lastBuildDate>Thu, 01 Jan 2026 12:00:00 +0900</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gallery</title>
+      <link>//localhost:1313/gallery/</link>
+      <pubDate>Thu, 01 Jan 2026 12:00:00 +0900</pubDate><author>uneune.create@gmail.com (uneune. )</author>
+      <guid>//localhost:1313/gallery/</guid>
+      <description>&lt;h2 id=&#34;coming-soon&#34;&gt;Coming Soon&lt;br&gt;&lt;/h2&gt;&#xA;&lt;!-- ギャラリーの枠組み（CSSで制御します） --&gt;&#xA;&lt;div class=&#34;gallery-container&#34;&gt;&#xA;  &lt;a href=&#34;//localhost:1313/img/work1.jpg&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;//localhost:1313/img/work1.jpg&#34; alt=&#34;作品1&#34;&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;//localhost:1313/img/work2.jpg&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;//localhost:1313/img/work2.jpg&#34; alt=&#34;作品2&#34;&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;//localhost:1313/img/work3.jpg&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;//localhost:1313/img/work3.jpg&#34; alt=&#34;作品3&#34;&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;//localhost:1313/img/work4.jpg&#34; class=&#34;gallery-item&#34;&gt;&lt;img src=&#34;//localhost:1313/img/work4.jpg&#34; alt=&#34;作品4&#34;&gt;&lt;/a&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>about</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Thu, 01 Jan 2026 09:00:00 +0900</pubDate><author>uneune.create@gmail.com (uneune. )</author>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;!-- 写真の表示（丸くしたりサイズ調整したりできます） --&gt;&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/img/unelogobl.jpeg&#34; alt=&#34;ロゴ&#34; style=&#34;width: auto; height: auto; display: block; margin-bottom: 20px;&#34;&gt;&#xA;&lt;br&gt;&#xA;おかだかいりと鈴木まなみからなる造形ユニット、uneune.(うねうね)&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;〔特殊メイク・特殊造形〕&lt;br&gt;&#xA; 傷メイク、人体・動物・武器などのダミー、キャラクター制作。シリコンやウレタン・FRPなど様々な素材を用いたリアルな質感表現が可能です。&lt;br&gt;&#xA;&lt;br&gt;&#xA;〔着ぐるみ・コスチューム〕&lt;br&gt;&#xA;デザインと動きやすさ・耐久性を両立させた設計・制作&lt;br&gt;&#xA;&lt;br&gt;&#xA;〔プロップ制作〕&lt;br&gt;&#xA;映像・舞台用の装飾・小道具&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/img/aboutkairisq.jpg&#34; alt=&#34;プロフィール写真&#34; style=&#34;width: 300px; height: 300px; object-fit: cover; border-radius: 50%; display: block; margin-left: 0; margin-right: auto; margin-bottom: 20px;&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;h3 id=&#34;おかだ-かいり&#34;&gt;おかだ かいり&lt;br&gt;&lt;/h3&gt;&#xA;&lt;br&gt;&#xA;広島県生まれ。&lt;br&gt;&#xA;神戸市外国語大学外国語学部卒業（2010.3）、大阪大学大学院文学研究科アート・メディア論修&#xA;了（2013.3）、Amazing School JUR 卒業（2023.3）。&#xA;&lt;p&gt;大学在学中から舞台役者として関西を中心に活動。2013 年「創作工房 こねこの翼」を屋号に定め舞台衣装作家としての仕事も開始。さまざまな舞台で、衣装デザイン・製作・コーディネートを行う。&lt;/p&gt;&#xA;&lt;p&gt;造形セミナーに通う中で、舞台に活かせる特殊造形・特殊メイクの技術を学びたいと思い Amazing School JUR に入学。&#xA;卒業後はテーマパーク関連の仕事を中心に衣装や特殊メイク・造形のさまざまなアトリエにスポット勤務、個人でも衣装や小道具等の仕事を受けている。&#xA;またハンドメイド雑貨やフィギュアの販売も行うなど雑多に活動している。&lt;/p&gt;&#xA;&lt;p&gt;趣味は勉強と何の役に立つかわからない資格の取得。気になることはとことん調べるタイプ。衣装・造形ともに和と動物をモチーフにした表現を得意とする。&lt;/p&gt;&#xA;&lt;br&gt;&#xA;&lt;div style=&#34;clear: both;&#34;&gt;&lt;/div&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;hr&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;//localhost:1313/img/aboutmanamisq.jpg&#34; alt=&#34;プロフィール写真&#34; style=&#34;width: 300px; height: 300px; object-fit: cover; border-radius: 50%; display: block; margin-left: 0; margin-right: auto; margin-bottom: 20px;&#34;&gt;&#xA;&lt;br&gt;&#xA;&lt;h3 id=&#34;鈴木-まなみ&#34;&gt;鈴木 まなみ&lt;br&gt;&lt;/h3&gt;&#xA;&lt;br&gt;&#xA;栃木県生まれ、山口県育ち。&lt;br&gt;&#xA;ECCアーティスト専門学校 特殊メイクコース卒業(2013.3)。&lt;br&gt;&#xA;着ぐるみ制作会社、特殊メイク・造形会社にて映画・ドラマ・舞台・テーマパーク向けの特殊メイク・造形制作に携わる。&lt;br&gt;&#xA;&lt;br&gt;&#xA;制約の多い現場や前例の少ない制作においても、創意工夫と試行錯誤を厭わずこだわりを形にします。&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;</description>
+    </item>
+  </channel>
+</rss>

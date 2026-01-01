@@ -1,0 +1,16 @@
+
+<!-- 拡大表示用ライブラリの読み込み -->
+<link rel="stylesheet" href="cdnjs.cloudflare.com">
+<script src="cdnjs.cloudflare.com"></script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var galleryItems = document.querySelectorAll(".gallery-item");
+    if (galleryItems.length > 0) {
+      galleryItems.forEach(function(item) {
+        new Luminous(item);
+      });
+    }
+  });
+</script>
+

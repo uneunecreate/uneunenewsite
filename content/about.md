@@ -1,0 +1,87 @@
+---
+title: "about"
+date: 2026-01-01T09:00:00+09:00
+---
+
+<!-- 写真の表示（丸くしたりサイズ調整したりできます） -->
+
+<br>
+
+<img src="/img/unelogobl.jpeg" alt="ロゴ" style="width: auto; height: auto; display: block; margin-bottom: 20px;">
+
+<br>
+おかだかいりと鈴木まなみからなる造形ユニット、uneune.(うねうね)<br>
+<br>
+<br>
+〔特殊メイク・特殊造形〕<br>
+ 傷メイク、人体・動物・武器などのダミー、キャラクター制作。シリコンやウレタン・FRPなど様々な素材を用いたリアルな質感表現が可能です。<br>
+<br>
+〔着ぐるみ・コスチューム〕<br>
+デザインと動きやすさ・耐久性を両立させた設計・制作<br>
+<br>
+〔プロップ制作〕<br>
+映像・舞台用の装飾・小道具<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="/img/aboutkairisq.jpg" alt="プロフィール写真" style="width: 300px; height: 300px; object-fit: cover; border-radius: 50%; display: block; margin-left: 0; margin-right: auto; margin-bottom: 20px;">
+
+
+
+
+
+<br>
+
+### おかだ かいり<br>
+<br>
+広島県生まれ。<br>
+神戸市外国語大学外国語学部卒業（2010.3）、大阪大学大学院文学研究科アート・メディア論修
+了（2013.3）、Amazing School JUR 卒業（2023.3）。
+
+大学在学中から舞台役者として関西を中心に活動。2013 年「創作工房 こねこの翼」を屋号に定め舞台衣装作家としての仕事も開始。さまざまな舞台で、衣装デザイン・製作・コーディネートを行う。
+
+造形セミナーに通う中で、舞台に活かせる特殊造形・特殊メイクの技術を学びたいと思い Amazing School JUR に入学。
+卒業後はテーマパーク関連の仕事を中心に衣装や特殊メイク・造形のさまざまなアトリエにスポット勤務、個人でも衣装や小道具等の仕事を受けている。
+またハンドメイド雑貨やフィギュアの販売も行うなど雑多に活動している。
+
+趣味は勉強と何の役に立つかわからない資格の取得。気になることはとことん調べるタイプ。衣装・造形ともに和と動物をモチーフにした表現を得意とする。
+
+
+
+
+
+
+<br>
+<div style="clear: both;"></div>
+<br>
+<br>
+
+---
+<br>
+<br>
+<br>
+<img src="/img/aboutmanamisq.jpg" alt="プロフィール写真" style="width: 300px; height: 300px; object-fit: cover; border-radius: 50%; display: block; margin-left: 0; margin-right: auto; margin-bottom: 20px;">
+
+
+
+<br>
+
+
+### 鈴木 まなみ<br>
+<br>
+栃木県生まれ、山口県育ち。<br>
+ECCアーティスト専門学校 特殊メイクコース卒業(2013.3)。<br>
+着ぐるみ制作会社、特殊メイク・造形会社にて映画・ドラマ・舞台・テーマパーク向けの特殊メイク・造形制作に携わる。<br>
+<br>
+制約の多い現場や前例の少ない制作においても、創意工夫と試行錯誤を厭わずこだわりを形にします。<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+

@@ -1,0 +1,137 @@
+baseURL = "une-une.net"
+DefaultContentLanguage = "ja" # 言語設定を日本語に変更
+title = "uneune." # サイトタイトルを変更
+
+# Using theme as git submodule
+theme = "beautifulhugo"
+# Or when using theme as hugo module
+# theme = "github.com/halogenica/beautifulhugo"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+
+[Services]
+  [Services.Disqus]
+    # Shortname = "XXX" # Disqusのショートネームがあればここに入力
+  [Services.googleAnalytics]
+    # id = "XXX" # Google AnalyticsのトラッキングIDがあればここに入力
+
+[Params]
+#  homeTitle = "uneune." # ホームページのヘッダーテキストをサイトタイトルと同じに設定
+  subtitle = "uneune." # サブタイトルを適切なものに変更
+  mainSections = ["post","posts"]
+  logo = "" # 必要に応じてロゴ画像を変更
+  favicon = ""
+  dateFormat = "2006/1/2" # 
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+#  cusdisID = "XXX" # Get your App id from cusdis.com
+#  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+#  disclaimerText = "The opinions expressed herein are my own personal opinions and do not represent my employer’s view in any way."
+
+
+[Params.author]
+  # 作家チームの代表者や共通のアカウント情報を設定
+  name = "uneune. " 
+  website = "une-une.net"
+  email = "uneun.create@gmail.com" # 適切なメールアドレスに変更
+  # 以下、利用しているSNSがあれば username を入力してください
+  # facebook = "" 
+  # github = ""
+  # gitlab = ""
+  # bitbucket = ""
+  twitter = "@uneune_uneko"
+  # reddit = ""
+  # linkedin = ""
+  # xing = ""
+  # stackoverflow = ""
+  # snapchat = ""
+  instagram = ""
+  # youtube = "" # or channel/channelname
+  # soundcloud = ""
+  # spotify = ""
+  # bandcamp = ""
+  # itchio = ""
+  # vk = ""
+  # paypal = ""
+  # telegram = ""
+  # 500px = ""
+  # codepen = ""
+  # mastodon = ""
+  # kaggle = ""
+  # weibo = ""
+  # slack = ""
+  # medium = ""
+  # discord = ""
+  # strava = ""
+  # lastfm = ""
+  # bluesky = ""
+
+[[menu.main]]
+    name = "News" # 
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About" # 
+    url = "page/about/"
+    weight = 3
+
+[[menu.main]]
+    identifier = "samples"
+    name = "Works" #
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "Big Image Sample"
+    url = "post/2017-03-07-bigimg-sample"
+    weight = 1
+
+[[menu.main]]
+    parent = "samples"
+    name = "Math Sample"
+    url = "post/2017-03-05-math-sample"
+    weight = 2
+
+[[menu.main]]
+    parent = "samples"
+    name = "Code Sample"
+    url = "post/2016-03-08-code-sample"
+    weight = 3
+
+[[menu.main]]
+    name = "Category" #
+    url = "tags"
+    weight = 3
+
+# --- ここから追記 ---
+
+# デフォルトの言語設定を日本語に指定
+defaultContentLanguage = "ja"
+hasCJKLanguage = true
+
+[languages]
+  [languages.ja]
+    contentDir = "content/ja"
+    languageName = "日本語"
+    weight = 1
+
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 2
+
+# --- ここまで追記 ---
+
