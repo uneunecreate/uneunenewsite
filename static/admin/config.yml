@@ -1,0 +1,17 @@
+backend:
+  name: git-gateway
+  branch: main # 自分のデプロイ用ブランチ名に合わせる
+
+media_folder: "static/img" # 画像の保存先
+public_folder: "/img"      # サイト上の画像パス
+
+collections:
+  - name: "posts"
+    label: "ブログ記事"
+    folder: "content/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "タイトル", name: "title", widget: "string"}
+      - {label: "作成日", name: "date", widget: "datetime"}
+      - {label: "本文", name: "body", widget: "markdown"}
