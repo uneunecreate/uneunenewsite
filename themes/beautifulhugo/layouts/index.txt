@@ -1,0 +1,13 @@
+{{ define "main" }}
+{{ with .Content }}
+{{.}}
+{{ end }}
+{{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }} {{ range $pag.Pages }} {{ partial "post_preview" . }} {{ end }}
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+{{ if .Paginator.HasPrev }}
+← {{ i18n "newerPosts" }}
+{{ end }} {{ if .Paginator.HasNext }}
+{{ i18n "olderPosts" }} →
+{{ end }}
+{{ end }}
+{{ end }}

@@ -11,6 +11,9 @@ theme = 'beautifulhugo'
   twitter = "@uneune_uneko"
   instagram = "@uneune_uneko"
 
+  # フッターにSNSを表示する設定
+  footer-social = true
+
 # --- メニュー設定 ---
 [[menu.main]]
     name = "about"
