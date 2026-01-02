@@ -1,4 +1,3 @@
-
 <!-- 拡大表示用ライブラリの読み込み -->
 <link rel="stylesheet" href="cdnjs.cloudflare.com">
 <script src="cdnjs.cloudflare.com"></script>
@@ -8,9 +7,12 @@
     var galleryItems = document.querySelectorAll(".gallery-item");
     if (galleryItems.length > 0) {
       galleryItems.forEach(function(item) {
+        // LuminousGalleryを使用する場合はこちら
+        // new LuminousGallery(item); 
+        
+        // 単体画像の場合はこちらを使用
         new Luminous(item);
       });
     }
   });
 </script>
-
