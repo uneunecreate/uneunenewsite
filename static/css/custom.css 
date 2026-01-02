@@ -60,3 +60,18 @@ input, textarea, input:focus, textarea:focus {
     background-color: #ffffff !important;
     opacity: 1 !important;
 }
+
+input, textarea {
+    color: #ffffff !important; /* 文字色を白に設定 */
+    background-color: #000000 !important; /* 背景色を黒に設定 (任意) */
+    border: 1px solid #ffffff !important; /* 枠線を白に設定 (任意) */
+}
+
+
+/* プレースホルダーの文字色を薄いグレーに変更 */
+input::placeholder, textarea::placeholder {
+    color: #a0a0a0 !important; /* 薄いグレー */
+    opacity: 1 !important;     /* ブラウザによってはデフォルトで薄くなるため、不透明度を100%に設定 */
+}
+
+

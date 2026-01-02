@@ -3,23 +3,26 @@ title: "Contact"
 date: 2026-01-01T15:00:00+09:00
 ---
 
-<div style="max-width: 600px; margin: 0 auto; color: #000;">
-  <p>お問い合わせは以下のフォームよりお願いいたします。</p>
-
-  <!-- ここから <form> タグを追加 -->
 <form name="contact" method="POST" data-netlify="true">
     <div style="margin-bottom: 20px;">
         <label style="display: block; font-weight: bold;">お名前 (必須)</label>
-        <input type="text" name="name" required style="width: 100%; padding: 12 px; border: 2px solid #000; color: #000 !important; background: #fff !important; font-size: 18px;">
+        <!-- placeholderを追加 -->
+        <input type="text" name="name" required placeholder="うね うね子" style="width: 100%; padding: 12px; border: 2px solid #fff; color: #fff !important; background: #000 !important; font-size: 18px;">
     </div>
     <div style="margin-bottom: 20px;">
-        <label style="display: block; font-weight: bold;">メールアドレス (必須)</label>
-        <input type="email" name="email" required style="width: 100%; padding: 12px; border: 2px solid #000; color: #000 !important; background: #fff !important; font-size: 18px;">
+        <label style="display: block; font-weight: bold;">E-mail(必須)</label>
+        <!-- placeholderを追加 -->
+        <input type="email" name="email" required placeholder="uneune.create@unel.com" style="width: 100%; padding: 12px; border: 2px solid #fff; color: #fff !important; background: #000 !important; font-size: 18px;">
     </div>
     <div style="margin-bottom: 20px;">
         <label style="display: block; font-weight: bold;">メッセージ (必須)</label>
-        <textarea name="message" rows="6" required style="width: 100%; padding: 12px; border: 2px solid #000; color: #000 !important; background: #fff !important; font-size: 18px;"></textarea>
+        <!-- placeholderを追加 -->
+        <textarea name="message" rows="6" required placeholder="メッセージをここに入力してください" style="width: 100%; padding: 12px; border: 2px solid #fff; color: #fff !important; background: #000 !important; font-size: 18px;"></textarea>
     </div>
-    <button type="submit" style="width: 100%; padding: 20px; background: #000; color: #fff; border: none; font-weight: bold; font-size: 18px; cursor: pointer;">送信する</button>
+    <!-- ファイルアップロード欄 -->
+    <div style="margin-bottom: 20px;">
+        <label style="display: block; font-weight: bold; color: #fff;">ファイルのアップロード</label>
+        <input type="file" name="uploads" multiple style="width: 100%; padding: 12px; font-size: 16px; color: #fff; background: #000;">
+    </div>
+    <button type="submit" style="width: 100%; padding: 20px; background: #fff; color: #000; border: none; font-weight: bold; font-size: 18px; cursor: pointer;">送信する</button>
 </form>
-<!-- ここまで </form> タグを追加 -->
