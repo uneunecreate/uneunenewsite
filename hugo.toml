@@ -1,4 +1,4 @@
-baseURL = 'https://uneunenewsite.netlify.app'
+baseURL = 'uneunenewsite.netlify.app'
 languageCode = 'ja-jp'
 title = 'uneune.'
 theme = 'beautifulhugo'
@@ -41,9 +41,5 @@ theme = 'beautifulhugo'
     [markup.goldmark.renderer]
       unsafe = true
 
-
-
-
 [build.environment]
   HUGO_VERSION = "0.125.0" # 使用したいHugoのバージョンを指定
-
