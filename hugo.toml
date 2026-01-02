@@ -1,4 +1,4 @@
-baseURL = 'une-une.net'
+baseURL = 'https://uneunenewsite.netlify.app'
 languageCode = 'ja-jp'
 title = 'uneune.'
 theme = 'beautifulhugo'
@@ -9,7 +9,7 @@ theme = 'beautifulhugo'
   custom_css = ["css/custom.css"]
   # SNS連携
   twitter = "@uneune_uneko"
-  instagram = "uneune_uneko"
+  instagram = "@uneune_uneko"
 
 # --- メニュー設定 ---
 [[menu.main]]
