@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
-  branch: main # 自分のデプロイ用ブランチ名に合わせる
+  branch: main # GitHubのブランチ名がmasterならここをmasterに書き換え
 
-media_folder: "static/img" # 画像の保存先
-public_folder: "/img"      # サイト上の画像パス
+media_folder: "static/img"
+public_folder: "/img"
 
 collections:
   - name: "posts"
