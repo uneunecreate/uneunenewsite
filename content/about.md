@@ -6,9 +6,6 @@ date: 2026-01-01T09:00:00+09:00
 <!-- 写真の表示（丸くしたりサイズ調整したりできます） -->
 
 <br>
-
-<img src="/img/unelogobl.jpeg" alt="ロゴ" style="width: auto; height: auto; display: block; margin-bottom: 20px;">
-
 <br>
 おかだかいりと鈴木まなみからなる造形ユニット、uneune.(うねうね)<br>
 <br>
