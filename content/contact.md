@@ -3,7 +3,8 @@ title: "Contact"
 date: 2026-01-01T15:00:00+09:00
 ---
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" action="/thank-you/">
+
     <div style="margin-bottom: 20px;">
         <label style="display: block; font-weight: bold;">お名前 (必須)</label>
         <!-- placeholderを追加 -->
