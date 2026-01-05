@@ -1,15 +1,14 @@
-baseURL = 'une-une.net'
+baseURL = 'https://une-une.net'
 languageCode = 'ja-jp'
 title = 'uneune.'
 theme = 'beautifulhugo'
 
-[params]
+[params.author]
   subtitle = ""
-  author.name = "uneune. " 
   custom_css = ["css/custom.css"]
   # SNS連携
-  twitter = "@uneune_uneko"
-  instagram = "@uneune_uneko"
+  twitter = "uneune_uneko"
+  instagram = "uneune_uneko"
 
   # フッターにSNSを表示する設定
   footer-social = true
